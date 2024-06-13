@@ -1,0 +1,10 @@
+.innerContainer {
+  /* background-color: blue; */
+  /* display: flex; */
+  /* flex: 1; */
+  margin: 10px;
+  flex: 1;
+
+  display: flex;
+  justify-content: center;
+}
