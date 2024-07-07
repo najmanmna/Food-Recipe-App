@@ -10,7 +10,13 @@ Welcome to the Food Recipe App! This application allows users to search for reci
 
 ## Demo
 
-![Home Page](./images/home-page.png)
+<div style="display: flex;">
+        <img src="foodapp/images/Food App - Google Chrome 13_06_2024 4_35_37 pm.png" alt="Image 2" style="flex: 1; margin-left: 10px;">
+
+   <img src="foodapp/images/Food App - Google Chrome 13_06_2024 4_34_53 pm.png" alt="Image 1" style="flex: 1; margin-right: 10px;">
+    <img src="foodapp/images/Food App - Google Chrome 13_06_2024 4_35_01 pm.png" alt="Image 2" style="flex: 1; margin-left: 10px;">
+    <img src="foodapp/images/Food App - Google Chrome 13_06_2024 4_35_11 pm.png" alt="Image 1" style="flex: 1; margin-right: 10px;">
+</div>
 
 ## Installation
 
