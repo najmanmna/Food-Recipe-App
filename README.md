@@ -31,7 +31,7 @@ To get a local copy up and running, follow these steps.
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/food-recipe-app.git
+   git clone https://github.com/yourusername/food-recipe-app.git](https://github.com/najmanmna/Food-Recipe-App.git
    cd food-recipe-app
    ```
 
@@ -45,10 +45,7 @@ To get a local copy up and running, follow these steps.
 3. **Set up the Spoonacular API:**
 
    - Sign up at [Spoonacular](https://spoonacular.com/food-api) and get your API key.
-   - Create a `.env` file in the root of the project and add your API key:
-     ```sh
-     VITE_SPOONACULAR_API_KEY=your_api_key_here
-     ```
+   - Add your API Key in project code
 
 4. **Run the app:**
    ```sh
@@ -90,9 +87,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter_handle](https://twitter.com/your_twitter_handle) - your_email@example.com
-
-Project Link: [https://github.com/yourusername/food-recipe-app](https://github.com/yourusername/food-recipe-app)
+Ahamed Najman - najmanmna@gmail.com
 
 ---
 
@@ -103,5 +98,3 @@ Project Link: [https://github.com/yourusername/food-recipe-app](https://github.c
 - [Vite](https://vitejs.dev/)
 
 ---
-
-Feel free to customize this README to fit your project's needs!
